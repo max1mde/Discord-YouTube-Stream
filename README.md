@@ -32,9 +32,9 @@
 **Install packages** 
  
 ```
+npm install -g typescript
 npm install @dank074/discord-video-stream
 npm install ytdl
-npm install
 npm install googleapis 
 ```
  
