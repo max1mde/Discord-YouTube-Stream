@@ -8,15 +8,13 @@
 ### Features I have implemented/changed:
  - Playing YouTube videos and livestreams (Not every video works)
 
- - 1 Command argument instead of 2 because the bot joins now the voice channel in wich you are
-  - EXAMPLE:
-   - **NEW:**
-      - $play <video name/link>
-   - **OLD:**
-      - $play-cam <direct video link> <voice channel name>
- 
- - $help command
- - $leave instead of $disconnect, $live instead of $play-live and $site instead of $play-screen
+ - 1 Command argument instead of 2 (because the bot joins now the voice channel in wich you are)
+ **New commands**
+ - $play <video name/link> #cam
+ - $live <video name/link> #screenshare
+ - $site <website url> #screenshare
+ - $leave
+ - help
  
  ![image](https://github.com/JavaDevMC/images/blob/main/Bild_2023-03-27_112031511.png?raw=true)
  
