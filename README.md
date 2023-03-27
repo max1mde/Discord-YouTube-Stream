@@ -6,7 +6,7 @@
  - Look at https://github.com/dank074/Discord-video-stream for all features
  
 ### Features I have implemented/changed:
- - Playing YouTube videos (Not every video works)
+ - Playing YouTube videos and livestreams (Not every video works)
 
  - 1 Command argument instead of 2 because the bot joins now the voice channel in wich you are
   - EXAMPLE:
