@@ -22,6 +22,8 @@
  
 **Replace API key, bot token and acceptedAuthors ID** 
  
+ #### [Get API key](https://github.com/JavaDevMC/Discord-YouTube-Stream/blob/main/youtube-api-key.md)
+ 
  `StreamBot/src/config.json`:
 ```json
 "token": "SELF BOT ACCOUNT TOKEN HERE",
