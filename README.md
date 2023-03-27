@@ -30,6 +30,8 @@
 "youtube_api_key": "YOUR YOUTUBE API KEY HERE",
 "acceptedAuthors": ["USER_ID_HERE"],
 ```
+
+**Install packages** 
  
 ```
 npm install @dank074/discord-video-stream
@@ -37,6 +39,10 @@ npm install ytdl
 npm install
 npm install googleapis 
 ```
+ 
+ 
+**Build and run bot** 
+ 
 ```
 npm run build 
 npm run start 
