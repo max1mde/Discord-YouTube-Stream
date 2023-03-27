@@ -46,6 +46,7 @@ npm run build
 npm run start 
 ```
 
+-----------------------------------------------------------------------------------------
 
 **All features can be accessed by anyone!**
 **Except the $site command wich can only be used by the config.acceptedAuthors users!**
@@ -57,4 +58,6 @@ if (!config.acceptedAuthors.includes(msg.author.id)) {
   return;
 } 
 ```
+
+-----------------------------------------------------------------------------------------
 
