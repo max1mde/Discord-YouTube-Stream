@@ -30,7 +30,9 @@
 "acceptedAuthors": ["USER_ID_HERE"],
 ```
 
- #### [Get API key tutorial](https://github.com/JavaDevMC/Discord-YouTube-Stream/blob/main/youtube-api-key.md)
+ #### [Click here](https://github.com/JavaDevMC/Discord-YouTube-Stream/blob/main/youtube-api-key.md) for a tutorial to get the API key
+
+
 
 **Install packages** 
  
