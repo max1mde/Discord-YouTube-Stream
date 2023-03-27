@@ -49,7 +49,7 @@ npm run start
 ```
 
 
-## All features can be accessed by anyone except the $site command
+### All features can be accessed by anyone except the $site command wich can only be used by the config.acceptedAuthors users!
 
 To change that remove that code part from the index.ts file or move it wherever you want
 ```
