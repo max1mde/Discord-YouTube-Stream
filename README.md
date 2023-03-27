@@ -12,7 +12,7 @@
  **New commands**
  - $play <video-name/link>
  - $live <video-name/link>
- - $sitee <website-url>
+ - $site <url (website)>
  - $leave
  - $help
  
