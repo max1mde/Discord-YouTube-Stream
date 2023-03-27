@@ -10,9 +10,9 @@
  - 1 Command argument instead of 2 (because the bot joins now the voice channel in wich you are)
  
  **New commands**
- - $play <video name/link> #cam
- - $live <video name/link> #screenshare
- - $site <website url> #screenshare
+ - $play <video name/link>
+ - $live <video name/link>
+ - $site <website url>
  - $leave
  - $help
  
