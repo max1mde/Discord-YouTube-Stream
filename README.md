@@ -14,7 +14,7 @@
  - $live <video name/link> #screenshare
  - $site <website url> #screenshare
  - $leave
- - help
+ - $help
  
  ![image](https://github.com/JavaDevMC/images/blob/main/Bild_2023-03-27_112031511.png?raw=true)
  
