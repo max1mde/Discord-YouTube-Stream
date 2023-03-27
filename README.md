@@ -9,7 +9,7 @@
  - Playing YouTube videos and livestreams (Not every video works)
 
  - 1 Command argument instead of 2 (because the bot joins now the voice channel in wich you are)
- **New commands**
+ \n**New commands**
  - $play <video name/link> #cam
  - $live <video name/link> #screenshare
  - $site <website url> #screenshare
