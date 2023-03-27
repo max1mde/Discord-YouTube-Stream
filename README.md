@@ -22,7 +22,7 @@
  
 ### Installation 
  
-**Replace API key and token** 
+**Replace API key, bot token and acceptedAuthors ID** 
  
  `StreamBot/src/config.json`:
 ```json
@@ -46,5 +46,16 @@ npm install googleapis
 ```
 npm run build 
 npm run start 
+```
+
+
+## All features can be accessed by anyone except the $site command
+
+To change that remove that code part from the index.ts file or move it wherever you want
+```
+if (!config.acceptedAuthors.includes(msg.author.id)) {
+  await msg.channel.send("This feature is currently not available!");
+  return;
+} 
 ```
 
