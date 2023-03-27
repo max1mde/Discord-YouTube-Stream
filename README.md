@@ -3,7 +3,7 @@
 ## Fork of https://github.com/dank074/Discord-video-stream
 
 ### Features
- - Look at https://github.com/dank074/Discord-video-stream for all features of the original repository
+ - Look at https://github.com/dank074/Discord-video-stream for all features of the original bot
  
 ### Features I have implemented/changed:
  - Playing YouTube videos and livestreams (Not every video works)
